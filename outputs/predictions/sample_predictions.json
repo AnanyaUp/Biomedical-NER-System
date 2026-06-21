@@ -1,0 +1,54 @@
+[
+    {
+        "input_text": "Tamoxifen is commonly used in breast cancer treatment.",
+        "entities": [
+            {
+                "entity": "Chemical",
+                "text": "tamoxifen"
+            },
+            {
+                "entity": "Disease",
+                "text": "breast cancer"
+            }
+        ]
+    },
+    {
+        "input_text": "The patient was diagnosed with typhoid and prescribed paracetamol.",
+        "entities": [
+            {
+                "entity": "Disease",
+                "text": "typhoid"
+            },
+            {
+                "entity": "Chemical",
+                "text": "paracetamol"
+            }
+        ]
+    },
+    {
+        "input_text": "Aspirin can reduce the risk of cardiovascular disease.",
+        "entities": [
+            {
+                "entity": "Chemical",
+                "text": "aspirin"
+            },
+            {
+                "entity": "Disease",
+                "text": "cardiovascular disease"
+            }
+        ]
+    },
+    {
+        "input_text": "Metformin is frequently prescribed for diabetes mellitus.",
+        "entities": [
+            {
+                "entity": "Chemical",
+                "text": "metformin"
+            },
+            {
+                "entity": "Disease",
+                "text": "diabetes mellitus"
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+torch
+transformers
+datasets
+
+numpy
+pandas
+
+seqeval
+scikit-learn
+
+streamlit
+fastapi
+uvicorn
+
+tqdm
+safetensors
+matplotlib
